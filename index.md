@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages S3B
 
 You can use the [editor on GitHub](https://github.com/xS3Bx/casa-s3b/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
