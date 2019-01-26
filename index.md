@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages S3B
+![]({{site.baseurl}}/http://www.meteofrance.com/mf3-base-theme/images/mf-logo.svg)
 
-You can use the [editor on GitHub](https://github.com/xS3Bx/casa-s3b/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/xS3Bx/casa-s3b/edit/master/index.md) to maintain and preview the content for your website in Markdown files.![w]({{site.baseurl}}/60.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
